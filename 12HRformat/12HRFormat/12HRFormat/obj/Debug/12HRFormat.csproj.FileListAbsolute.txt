@@ -1,6 +1,0 @@
-C:\Users\salam\source\repos\12HRFormat\12HRFormat\bin\Debug\12HRFormat.dll
-C:\Users\salam\source\repos\12HRFormat\12HRFormat\bin\Debug\12HRFormat.pdb
-C:\Users\salam\source\repos\12HRFormat\12HRFormat\obj\Debug\12HRFormat.csproj.AssemblyReference.cache
-C:\Users\salam\source\repos\12HRFormat\12HRFormat\obj\Debug\12HRFormat.csproj.CoreCompileInputs.cache
-C:\Users\salam\source\repos\12HRFormat\12HRFormat\obj\Debug\12HRFormat.dll
-C:\Users\salam\source\repos\12HRFormat\12HRFormat\obj\Debug\12HRFormat.pdb
